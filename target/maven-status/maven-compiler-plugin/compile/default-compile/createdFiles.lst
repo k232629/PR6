@@ -1,0 +1,10 @@
+practice5/App.class
+practice5/data/JdbcStudentDao$1.class
+practice5/worker/WorkWithTeacher.class
+practice5/data/JdbcStudentDao.class
+practice5/data/HibernateTeacherDao.class
+practice5/data/StudentDao.class
+practice5/Teacher.class
+practice5/worker/WorkWithStudents.class
+practice5/data/TeachersDao.class
+practice5/Student.class

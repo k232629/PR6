@@ -1,0 +1,9 @@
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/Student.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/App.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/worker/WorkWithTeacher.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/worker/WorkWithStudents.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/data/JdbcStudentDao.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/data/TeachersDao.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/data/HibernateTeacherDao.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/data/StudentDao.java
+/Users/olhakaraiman/Documents/Practice5/src/main/java/practice5/Teacher.java
