@@ -6,6 +6,10 @@ import java.util.Date;
 
 @Entity
 @Table(name="TEACHERS")
+
+@SecondaryTables({
+        @SecondaryTable(name = "TEACHERS")
+})
 public class Teacher {
     @Id
     @GeneratedValue
@@ -17,6 +21,7 @@ public class Teacher {
     @Column(name = "lastname")
     private String lastname;
 
+    @Temporal(TemporalType.DATE)
     @Column(name = "birth_date")
     private Date birthDate;
 
